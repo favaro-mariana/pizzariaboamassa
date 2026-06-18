@@ -10,6 +10,7 @@ public class PizzariaboamassaApplication {
 
         SpringApplication.run(PizzariaboamassaApplication.class, args);
 
+		System.out.println("Server started port 8080");
 	}
 
 }
